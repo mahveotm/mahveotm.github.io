@@ -6,9 +6,9 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Marv. I have the following great qualities!
 
--I'm not short!
+I'm not short!
 -
--I extreemly loyal to friends!
+I extreemly loyal to friends!
 -
 
 What else do you need?
