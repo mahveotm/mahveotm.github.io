@@ -16,7 +16,7 @@ It would also provide a link should you desire to read further without you leavi
 
 ![Dang!](/img/screenshot3_1552252418057.png)
 
-I call it Tweepedia (culled from Twitter and Wikipedia) and work in an essentially simple fashion. It reads up mentions and checks the content with the REST API Wikipedia provides. It then returns a snippet of the article (in 240 words considering twitter character limit) and the continue reading link.
+I call it Tweepedia (culled from Twitter and Wikipedia) and work in an essentially simple fashion. It reads up mentions and checks the content with the REST API Wikipedia provides. It then returns a snippet of the article (in 240 words considering twitter character limit) and a continue reading link.
 
 This I expect to conservatively save time and web resources leaving us to continue using Twitter while we get the information we desire.
 
