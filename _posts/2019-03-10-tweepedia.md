@@ -18,10 +18,12 @@ It would also provide a link should you desire to read further without you leavi
 
 I call it Tweepedia (culled from Twitter and Wikipedia) and work in an essentially simple fashion. It reads up mentions and checks the content with the REST API Wikipedia provides. It then returns a snippet of the article (in 240 words considering twitter character limit) and a continue reading link.
 
-This I expect to conservatively save time and web resources leaving us to continue using Twitter while we get the information we desire.
+This I expect will save time and web resources leaving us to continue using Twitter while we get the information we desire.
 
 ![Lala!](/img/screenshot2_1552252398487.png)
 
 Currently, only only the English Wikipedia is supported, but hopefully other features and languages will be added.
 
-For devs, the project is open source, and the repo is [here](https://github.com/mahveotm/Tweepedia). I do appreciate comments and suggestions!
+For devs, the project is open source, and the repo is [here](https://github.com/mahveotm/Tweepedia). 
+
+Comments, suggestions and pull request are very much welcomed!
