@@ -12,3 +12,5 @@ As a routine, what we do is exit twitter, check the word on Google, and then pro
 
 
 What if there was a bot that responds to mentions and give you snippets of the subject you intend to serch for from Wikipedia
+
+![Dang!](/img/Screenshot_20190310-202254_1552250664672.png)
