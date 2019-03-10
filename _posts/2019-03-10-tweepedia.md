@@ -28,7 +28,7 @@ So please try it out, mention @mahveo and type out your favourite band, or that 
 
 For subject without a corresponding Wikipedia article, a response is given noting that the Wikipedia article does not currently exist.
 
-P.S Please note, some subjects entry are case sensitive, so @mahveo Jon Bellion would produce an entry, while @mahveo Jon bellion may not.
+PS, please note, some subjects entry are case sensitive, so @mahveo Jon Bellion would produce an entry, while @mahveo Jon bellion may not.
 
 For devs, the project is open source, and the repo is [here](https://github.com/mahveotm/Tweepedia). 
 
