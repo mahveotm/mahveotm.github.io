@@ -2,7 +2,7 @@
 layout: post
 title: Tweepedia
 subtitle: Let's try something!
-image: /img/screenshot3_1552252418057.png
+image: /img/IMG_-vlg61a.jpg
 ---
 
 Can we make a change?
