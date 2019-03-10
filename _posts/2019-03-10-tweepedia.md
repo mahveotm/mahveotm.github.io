@@ -24,7 +24,11 @@ This I expect will save time and web resources leaving us to continue using Twit
 
 Currently, only the English Wikipedia is supported, but hopefully, other features and languages will be added.
 
-So please try it out, mention @mahveo and type out your favourite band, or that name that has been popping on your timeline, Wikipedia might just have an article about it. For subject without a corresponding Wikipedia article, a response is given noting that the Wikipedia article does not currently exist.
+So please try it out, mention @mahveo and type out your favourite band, or that name that has been popping on your timeline, Wikipedia might just have an article about it. 
+
+For subject without a corresponding Wikipedia article, a response is given noting that the Wikipedia article does not currently exist.
+
+P.S Please note, some subjects entry are case sensitive, so @mahveo Jon Bellion would produce an entry, while @mahveo Jon bellion may not.
 
 For devs, the project is open source, and the repo is [here](https://github.com/mahveotm/Tweepedia). 
 
