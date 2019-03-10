@@ -7,7 +7,7 @@ image: /img/IMG_-vlg61a.jpg
 
 Can we make a change?
 
-A couple of times on Twitter, we stumble upon a new word, a new name or something/someone we just haven't heard (about) before.
+A couple of times on Twitter, we stumble upon a new word, a new name or something we just haven't heard before.
 As a routine, what we do is exit twitter, check the word on Google, and then probably read up more on Wikipedia.
 
 
