@@ -3,6 +3,7 @@ layout: post
 title: Tweepedia
 subtitle: Let's try something!
 image: /img/IMG_-vlg61a.jpg
+published: true
 ---
 
 Can we make a change?
