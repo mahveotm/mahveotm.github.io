@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Music vs Spotify -and why
-subtitle: Each post also has a subtitle
+subtitle: The year reviewed musically
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
