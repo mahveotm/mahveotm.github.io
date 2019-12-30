@@ -17,6 +17,8 @@ Now here's my Apple music vs Spotify post for an regular guy, using an andriod p
 
 
 Beat One : You can say Mahd oh! That's my fav radio station every(apologies to Beat FM 99.9 I won some movie tickets with those guys and theyre my second best). From Julie Adenuga(I really love the way she pronounces the name) -btw, did you know she's Skepta's elder sister?, to Zayne Lowe and the top music countdown, it's really an amazing stations. Stats by Apple says it's the most listened to radio station in the world and rightly so. I've also heard some amazing songs that I've grown to really live(Highwaywoman, WSTRN, xyz). That's really the beauty of apple music. Unfortunately Spotify does not have the quivalent of a live radio, so just leave with it man, just do
+
+The Speed: I'm kinda a tech entusiast so speed in terms of seconds means a lot to me, I'm also able to detect if a website is fast or slow, which is something that has spilled over to my music . Apple music is not so fast .I'm not going to be definite on that one since I use an andriod device, but compared to Spotify, you might need some seconds before your music starts playing. Unlike spotify, where your music starts playing almost immediately. [I heard it's some romance between Python, Java and C++](https://labs.spotify.com/2013/03/20/how-we-use-python-at-spotify/)
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
