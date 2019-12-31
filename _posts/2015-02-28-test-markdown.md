@@ -9,10 +9,9 @@ comments: true
 ---
 
 Let's start by why I'm (un)qualified to do this review. 
-I have a total listening hours of over 900hours listening to music on Apple music and over 600 hours listen hours on Sportify.
+I have a total listening hours of over 900hours listening to music on Apple music and over 600 hours listen hours on Spotify.
 
-![Crepe](/img/Screenshot_from_2019-12-30_21-23-38.png)
-![Dang!](/img/screenshot3_1552252418057.png)
+![Dang!](/img/Apple_music.png)
 i'm a huge misic fan, and if the genre make sense, I'm down for it.
 
 Now here's my Apple music vs Spotify post for an regular guy, using an andriod phone in the city of Lagos, Nigeria.
