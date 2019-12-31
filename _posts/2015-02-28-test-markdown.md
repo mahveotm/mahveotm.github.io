@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Apple Music vs Spotify -and why
-subtitle: The year reviewed musically
-gh-repo: daattali/beautiful-jekyll
+subtitle: _The year musically reviewed_
+gh-repo: mahveotm/mahveotm.github.io forked from daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
