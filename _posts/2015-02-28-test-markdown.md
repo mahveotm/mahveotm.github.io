@@ -11,7 +11,7 @@ comments: true
 Let's start by why I'm (un)qualified to do this review. 
 I have a total listening hours of over 900hours listening to music on Apple music and over 600 hours listen hours on Spotify.
 
-![Dang!](/img/Apple_music.png width="400" height="790")
+![Dang!](/img/Apple_music.png)
 i'm a huge misic fan, and if the genre make sense, I'm down for it.
 
 Now here's my Apple music vs Spotify post for an regular guy, using an andriod phone in the city of Lagos, Nigeria.
