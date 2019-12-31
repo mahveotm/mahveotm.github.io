@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Music vs Spotify -and why
-subtitle: _The year musically reviewed_
+subtitle: The year musically reviewed
 gh-repo: mahveotm/mahveotm.github.io forked from daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -11,6 +11,7 @@ comments: true
 Let's start by why I'm (un)qualified to do this review. 
 I have a total listening hours of over 900hours listening to music on Apple music and over 600 hours listen hours on Sportify.
 
+![Crepe](Screenshot from 2019-12-30 21-23-38.png)
 i'm a huge misic fan, and if the genre make sense, I'm down for it.
 
 Now here's my Apple music vs Spotify post for an regular guy, using an andriod phone in the city of Lagos, Nigeria.
