@@ -36,6 +36,4 @@ That went on for some month before I switched back to my account and continued w
 So it's a closely fought out war, but if you're in Nigeria, and can afford to cough out ₦450 monthly, Apple music is a no brainer, otherwise --- notjustok.com 
 
 
-So addendum here's my Apple Replay and Spotify wrapped for 2019!
-
-On Spotify, my sounds for the seasons are x]
+![](/img/chart.png)
