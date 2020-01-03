@@ -4,6 +4,7 @@ title: Apple Music vs Spotify -and why
 subtitle: The year musically reviewed!
 gh-repo: mahveotm/mahveotm.github.io forked from daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+bigimg: /img/Headset.jpg
 tags: [music]
 comments: true
 ---
