@@ -29,13 +29,11 @@ Apple says it's the most listened to radio station in the world and that's undis
 
 **Recommended listens**: Spotify does a great job with this one. I can -and have listened to music non-stop (for over 12 hours -don't ask me what I ws doing) with amazing recommended music that I actually loved listening to. Apple music recommended listen is trash, let's leave it like that.
 
-**Cost**: That's the most important one right. In Nigeria for me as a student, Apple music is far cheaper and no brainer compared to Spotify. I get charged ₦450.00 per month with my first 3 months absolutely free. On Spotify, I get to pay 9 USD per month to be able to enjoy downloads and other benefits of Pro. Spotify allows you to listen to music for free interrupted with ads and multiple functions like replay, downloads or skip removed or limited.
-My first 3 or 4 months on Spotify, I actually paid the 9 USD till I spoke with a friend from Belgium whom I met on twitter that allowed me to use her ID while she uses my Netflix passcode. That way, I won't have to use an escrow and also save cost, needing to subscribe to only Netflix xyz. 
+**Cost**: That's the most important one right. In Nigeria for me as a student, Apple music is far cheaper and a no brainer , compared to Spotify. I get charged ₦450.00 per month with my first 3 months absolutely free. On Spotify, I get to pay $9 per month to be able to enjoy downloads and other benefits of Pro. Spotify allows you to listen to music for free interrupted with ads and multiple functions like replay, downloads or skip removed or limited.
+My first 3 or 4 months on Spotify, I actually paid the $9, till I spoke with a friend from Belgium whom I met on twitter that allowed me to use her ID while she uses my Netflix passcode. That way, I won't have to use an escrow and also save cost, needing to subscribe to only Netflix. 
 That went on for some month before I switched back to my account and continued with the free tier - till now.
 
 So it's a closely fought out war, but if you're in Nigeria, and can afford to cough out ₦450 monthly, Apple music is a no brainer, otherwise --- notjustok.com 
 
 
-So addendum here's my Apple Replay and Spotify wrapped for 2019!
-
-On Spotify, my sounds for the seasons are x]
+![](/img/chart.png)
