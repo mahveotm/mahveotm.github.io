@@ -34,7 +34,7 @@ Apple says it's the most listened to radio station in the world and that's undis
 My first 3 or 4 months on Spotify, I actually paid the $9, till I spoke with a friend from Belgium whom I met on twitter that allowed me to use her ID while she uses my Netflix passcode. That way, I won't have to use an escrow and also save cost, needing to subscribe to only Netflix. 
 That went on for some month before I switched back to my account and continued with the free tier - till now.
 
-So it's a closely fought out war, but if you're in Nigeria, and can afford to cough out ₦450 monthly, Apple music is a no brainer, otherwise --- [notjustok.com](notjustok.com) 
+So it's a closely fought out war, but if you're in Nigeria, and can afford to cough out ₦450 monthly, Apple music is a no brainer, otherwise --- [notjustok.com](http://notjustok.com) 
 
 
 ![](/img/chart.png)
