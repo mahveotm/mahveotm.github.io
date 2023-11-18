@@ -8,7 +8,7 @@ Hi. Welcome!
 
 I'm Marvellous. My friends call me Mahveo, Mahveotm, tm or simply Marv. 
 
-Currently, I work for a small health startup as an automation(Infastructure as Code) engineer. I have previously worked as an independent contractor for a couple of other coys including Gluu, Grizzly Inc & WF. 
+Currently, I work for a small health startup as an automation(Infastructure as Code) engineer. 
 
 I am particularly intrested in SysOps, Cloud architecture, Arts & Nigerian politics. 
 
