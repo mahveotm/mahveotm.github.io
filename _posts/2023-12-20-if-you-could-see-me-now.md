@@ -19,15 +19,16 @@ We discussed the leap of faith, doing things blindly even though there's a signi
 
 I miss you, man. 
 
-I'm trying to get well-adjusted, I'm trying, I'm fucking trying, I swear, I keep your bag on my chair, the one you wore when it happened. 
+I'm trying to get well-adjusted, I'm trying, I'm fucking trying, I swear, but I'm just unable to move on. 
+I keep your bag on my chair, to look at every day, the one you wore when it happened. 
 
 I also got a camera, I try to take memories of people now. Looking back, we didn't get as many pictures as we could together. 
 
 And I think of how you'll send birthday cake every year, through that woman, and say prayers. I'm super grateful to have had you. 
 
-I'm trying to work on a fellowship with the good people of KPMG, haven't fully fleshed out the schematics yet. I spoke with the cybersecurity partner, they were very receptive of the idea, even willing to fund it in its entirety, even though that's not something I'll be comfortable with. I'll get to it next year, and I hope they'll still be open to it by then. 
+I'm trying to work on a fellowship with the good people of KPMG, haven't fully fleshed out the plan yet. I spoke with the cybersecurity partner, they were very receptive of the idea, even willing to fund it in its entirety, even though that's not something I'll be comfortable with. I'll get to it next year, and I hope they'll still be open to it by then. 
 
-Almost like after that day, nothing else mattered, my guys were very helpful, I took as long time as I needed off work, and worked reduced hours for a couple more, before I returned to regular schedule. 
+Almost like after that day, nothing else mattered to me. I lost interest in it all. My friends were very helpful, also I took as long time as I needed off work, and worked reduced hours for a couple more, before I returned to regular schedule. 
 
 Again, I'm thankful for the good people of KPMG & Winner's Chapel, they ensured that this wasn't harder than it should be, and covered a significant part of the logistics and everything involved to provide you with a befitting resting place. Your good friend Chukuwma was also much around and very helpful. 
 
@@ -36,3 +37,5 @@ Mom & Pops are doing ok, she got sick for a while, but she's recovering now. Eve
 I miss you, man. 
 
 We miss you. 
+
+It is well. 
