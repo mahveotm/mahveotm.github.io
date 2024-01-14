@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get free AWS Certification vouchers. 
+title: Get a free AWS Certification voucher. 
 subtitle: in remembrance
 ---
 
