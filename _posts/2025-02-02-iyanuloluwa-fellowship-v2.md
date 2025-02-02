@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: The Iyanuloluwa Osuolale Fellowship, v2.
