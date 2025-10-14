@@ -15,9 +15,6 @@ author: Marv
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://mahveo.codes"
 
 # --- Logo --- #
@@ -40,14 +37,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "mahveotm@gmail.com"
+  email: "m@rvellous.com"
   #facebook: deanattali
   github: mahveotm
-  twitter: theosuolale
+#  twitter: theosuolale
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
-  reddit: mahveotm
+#  reddit: mahveotm
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
