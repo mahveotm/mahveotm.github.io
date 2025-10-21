@@ -32,7 +32,7 @@ Technical write-ups like [*Building and Operating a Pretty Big Storage System*](
 
 ### Technical Blog and Knowledge Sharing
 
-A technical blog is crucial for demonstrating maturity. It should highlight architecture frameworks, integration guides, and best practices—for example, how to connect with Z Mobile Money or automate provisioning via Morpheus. This helps developers gain confidence and reduces friction during adoption.
+A technical blog is crucial for demonstrating maturity. It should highlight architecture frameworks, integration guides, and best practices—for example, how to connect with MTN Mobile Money or automate provisioning via Morpheus. This helps developers gain confidence and reduces friction during adoption.
 
 ### Knowledge Validation
 
