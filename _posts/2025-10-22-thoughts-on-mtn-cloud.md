@@ -42,6 +42,7 @@ Technical write-ups like [*Building and Operating a Pretty Big Storage System*](
 A technical blog is crucial for demonstrating platform maturity, but currently, there isn’t one. Additionally, requiring users to create an account and provide a home/office address and a phone number just to view pricing plans is unusual and discouraging. 
 Pricing transparency is a standard expectation among cloud providers. 
 We should be able to evaluate plans and costs before committing to registration.
+
 The proposed blog should highlight architecture frameworks, integration guides, and best practices, for example, how to connect with MTN Mobile Money(a selling point for MTN Cloud) or automate provisioning via Morpheus. This helps developers gain confidence and reduces friction during adoption.
 
 ### Knowledge Validation
