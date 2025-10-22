@@ -19,7 +19,7 @@ After working with the console for a couple of weeks, here are my thoughts on wh
 ### Hardware Token Support
 
 Please consider supporting hardware-based 2FA. Security-conscious users often enable two-factor authentication wherever possible. SMS OTPs are unreliable, leaving only app-based or hardware authentication as viable options.
-While app-based OTPs have become the standard, they can be slow. It taks roughly 30 seconds to grab your phone, unlock it, open your authenticator app, and enter the code. Adding YubiKey or FIDO2/WebAuthn support would make authentication faster and more secure.
+While app-based OTPs have become the standard, they can be slow. It takes roughly 30 seconds to grab your phone, unlock it, open your authenticator app, and enter the code. Adding YubiKey or FIDO2/WebAuthn support would make authentication faster and more secure.
 Major providers like Google, AWS, Oracle, and Microsoft already support hardware tokens. Here’s a good reference for implementation:
 [WebAuthn Starter Kit – Yubico Developer Guide](https://developers.yubico.com/Developer_Program/WebAuthn_Starter_Kit/Front-End_System_Design.html)
 
@@ -51,7 +51,7 @@ As the platform grows, companies will want to confirm that vendors and partners 
 This approach would improve developer's confidence, andd help organizations onboard faster.
 
 ### Pricing
-The price of the **GLD2x** is the cover image for this article. TThe currency icon should atleast be the Naira. [Here's what they were probably thinking.](https://youtu.be/IpwSXWq1wwU)
+The price of the **GLD2x** is the cover image for this article. The currency icon should atleast be Naira. [Here's what they were probably thinking.](https://youtu.be/IpwSXWq1wwU)
 
 Above all, great work by the MTN Cloud team. I’ve enjoyed using it so far.
 

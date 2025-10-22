@@ -10,7 +10,7 @@ I'm Marvellous. My friends call me Mahveo, Mahveotm, tm or simply Marv.
 
 Currently, I work for a small health startup as an automation(Infastructure as Code) engineer. 
 
-I am particularly intrested in SysOps, Cloud architecture, Arts & Nigerian politics. 
+I am particularly interested in SysOps, Cloud architecture, Arts & Nigerian politics. 
 
 I also volunteer with the Wikimedia project & genius.com (where I annotate music - mostly Afrobeats). 
 
