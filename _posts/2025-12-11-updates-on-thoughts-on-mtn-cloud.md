@@ -6,15 +6,6 @@ subtitle: Some updates.
 tags: [software, cloud, mtn cloud]
 ---
 
-
-A couple weeks ago, I shared my [thoughts on MTN Cloud](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), highlighting areas where I think the platform needed to mature to compete with major players like AWS and Azure. One of my primary critiques was the lack of support for **Infrastructure as Code (IaC)**, specifically Terraform—which I think is now a core part of modern cloud practice. 
-
-Earlier today, I attended a webinar with representatives from the MTN Cloud team, who can confirm that it should be possible to deploy cloud infastrcutre through terraform on MTN Cloud. 
-
-While it is unclear exactly how to deploy Terraform providers against their customized OpenStack/Morpheus environment, this is very promising, and I'll be very happy to tinker around it once there's a decent docs showing how to do so. 
-
-Speaking of documentations, technical blogs, and knowledge sharings one of the questions I asked was just about that, and they were honest about the fact that, while they do not have one at the moment, it's right on the roadmap, and we should have a **comprehensive documentation site, scheduled for release in Q1 of next year.**
-
 A couple of weeks ago, I shared my [thoughts on MTN Cloud](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), highlighting areas where I believe the platform needs to mature to truly compete with major players like AWS, Google Cloud and Azure. One of my primary critiques was the lack of visible support for **Infrastructure as Code (IaC)**, specifically Terraform, which I argue is now a core part of modern cloud practice.
 
 Earlier today, I attended a webinar with representatives from the MTN Cloud team, who confirmed that deploying cloud infrastructure through Terraform on MTN Cloud should indeed be possible.
