@@ -4,7 +4,7 @@ title: Thoughts on MTN Cloud.
 subtitle: After several weeks of using MTN Nigeria's MTN Cloud, here's what I think. 
 cover-img: /assets/img/mtncloudconsole.png
 share-img: /assets/img/mtncloudconsole.png
-tags: [software, cloud]
+tags: [software, cloud, mtn cloud]
 ---
 
 Weeks ago, I was granted early access to [MTN Cloud](https://cloud.mtn.ng/), and I’ve had a fun time tinkering around it. 
