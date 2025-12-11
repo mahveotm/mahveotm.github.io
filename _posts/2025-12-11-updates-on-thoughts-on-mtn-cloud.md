@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Some update on "Thoughts on MTN Cloud."
-subtitle: Some update. 
+title: Some updates on "Thoughts on MTN Cloud."
+subtitle: Some updates. 
 
 tags: [software, cloud, mtn cloud]
 ---
