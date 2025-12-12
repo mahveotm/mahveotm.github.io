@@ -20,4 +20,4 @@ If anybody from MTN Cloud is reading this, that was great, we need more webinars
 
 Thank you
 
-[CLose out](https://youtu.be/-f0Yt0CIV10)
+[Close out](https://youtu.be/-f0Yt0CIV10)
