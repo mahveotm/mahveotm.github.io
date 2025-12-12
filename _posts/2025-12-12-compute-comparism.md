@@ -2,8 +2,8 @@
 layout: post
 title: MTN Cloud compute pricing comparism(cloud this, cloud that).
 subtitle: How much is what, where?
-cover-img: /assets/img/Screenshot 2025-12-12 at 09.01.44.png
-share-img: /assets/img/Screenshot 2025-12-12 at 09.01.44.png
+cover-img: /assets/img/Screenshot 2025-12-12 at 09.06.38.png
+share-img: /assets/img/Screenshot 2025-12-12 at 09.06.38.png
 tags: [software, cloud, mtn cloud, aws, azure, gcp]
 ---
 
@@ -125,16 +125,12 @@ To ensure this is a fair, apples-to-apples comparison of the four providers, we 
 </table>
 </div>
 
-#### Key Takeaways from the Compute Price Showdown
+#### **Key Takeaways from the Compute Price Showdown**
+Cheapest compute instance available on MTN Cloud
+![cheap-mtn](https://raw.githubusercontent.com/mahveotm/mahveotm.github.io/refs/heads/master/assets/img/Screenshot%202025-12-12%20at%2009.01.44.png)
 
-This final addition gives a personal, appreciative touch and sets up the next article perfectly.
-
-Here is the completed, final version of your conclusion:
-
-***
-
-## **Key Takeaways from the Compute Price Showdown**
-
+Most expensive plan available on MTN Cloud
+![expensive-mtn](https://raw.githubusercontent.com/mahveotm/mahveotm.github.io/refs/heads/master/assets/img/Screenshot%202025-12-12%20at%2009.02.43.png)
 The comparison across all four cloud providers reveals some fascinating, and critical, data points regarding cloud infrastructure in Nigeria.
 
 The initial shock comes at the **low-end**: For the smallest, entry-level instances (1-2 vCPU), MTN Cloud is *s**ignificantly* more expensive than the international hyperscalers. To put a number on it, the MTN G1S1 (1 core, 1 GB) is nearly **six times** the cost of the GCP `e2-micro` (2 vCPU, 1 GB). I'm not an economist, but this might suggests the overhead of smaller, highly utilized local infrastructure is simply much higher than what the massive global US-based clouds can absorb.
