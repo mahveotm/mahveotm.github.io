@@ -16,6 +16,7 @@ To compare the four providers effectively, we are making the following consisten
 
 ## 📊 4-Way Cloud Compute Cost Comparison (Monthly NGN)
 
+<div style="overflow-x:auto; max-width:100%; border:1px solid #ddd;">
 <table>
 
   <tr>
@@ -109,7 +110,7 @@ To compare the four providers effectively, we are making the following consisten
   </tr>
 
 </table>
-
+</div>
 
 ## Some interesting data points. 
 
