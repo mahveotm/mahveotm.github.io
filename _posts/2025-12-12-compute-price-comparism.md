@@ -3,10 +3,8 @@ layout: post
 title: Compute pricing comparism.
 subtitle: How much is what?
 
-tags: [software, cloud, mtn cloud]
+tags: [software, cloud, mtn cloud, aws, azure, gcp]
 ---
-
-## 📝 Preamble & Assumptions
 
 To compare the four providers effectively, we are making the following consistent assumptions:
 
