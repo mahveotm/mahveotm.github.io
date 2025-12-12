@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MTN Cloud compute pricing comparism(cloud this, cloud that).
+title: MTN Cloud compute pricing comparison(cloud this, cloud that).
 subtitle: How much is what, where?
 cover-img: /assets/img/Screenshot 2025-12-12 at 09.06.38.png
 share-img: /assets/img/Screenshot 2025-12-12 at 09.06.38.png
@@ -9,7 +9,7 @@ tags: [software, cloud, mtn cloud, aws, azure, gcp]
 
 Hello, this is **Marv** here again, diving into something I think is important: **MTN Cloud** compute pricing.
 
-MTN Cloud does not offer a publicly accessible pricing plan or a simple cost calculator - yet. As I [strongly opined in this post](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), users should be able to evaluate potential costs and plans *before* even committing to registration or provisioning an instance. 
+MTN Cloud does not offer a publicly accessible pricing plan or a simple cost calculator - yet. As I [strongly opined earlier in this post](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), users should be able to evaluate potential costs and plans *before* even committing to registration or provisioning an instance. 
 
 To fill this crucial information gap, I have meticulously calculated and compared compute costs across MTN and the three other major global cloud providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
@@ -21,7 +21,7 @@ To ensure this is a fair, apples-to-apples comparison of the four providers, we 
 
 | Assumption | Detail | Rationale |
 | :--- | :--- | :--- |
-| **Pricing Model** | **Pay-As-You-Go (On-Demand)**. No long-term contracts (Reserved Instances, etc.) are applied. | Represents the most common starting point for new users and ensures a fair comparism across board. |
+| **Pricing Model** | **Pay-As-You-Go (On-Demand)**. No long-term contracts (Reserved Instances, etc.) are applied. | Represents the most common starting point for new users and ensures a fair comparison across board. |
 | **Timeframe** | **Monthly Cost (730 Hours)**. MTN’s quoted cost per instance is assumed to be the final monthly rate. | Standard industry metric for monthly uptime. |
 | **Currency Conversion** | **$1 USD = ₦1500**. AWS, Azure, and GCP costs include a **7.5% VAT/Sales Tax** and are converted at this rate. | Reflects a real-world, current-market exchange rate and includes essential tax for a final comparison. |
 | **Location Factor** | **AWS/Azure/GCP** prices are sourced from their popular **US East** regions. MTN’s price is currently consistent across its available zone(s). | Acknowledge the physical location that dictates global cloud pricing. |
