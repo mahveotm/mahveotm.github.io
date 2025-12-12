@@ -141,7 +141,7 @@ However, as we scale up, the picture changes. In the **mid-range** General Purpo
 
 The trend culminates in the **high-end Enterprise/Dedicated** tiers (96 Cores), where **MTN Cloud becomes the most expensive option**. The MTN Ge96L384, at ₦6,431,371, is about ₦1 million more per month than the equivalent instance on AWS, and approximately ₦442,000 more than Azure.
 
-**The trade-off is seems clear:** While the hyperscalers are vastly cheaper for small tasks—even after accounting for VAT and the volatile exchange rate conversion—a local provider like MTN offers the undeniable benefits of **low-latency access** within Nigeria. Crucially, MTN eliminates the reliance on volatile USD-to-NGN exchange rates and foreign payment methods, offering billing predictability that others simply cannot match.
+**The trade-off is seems clear:** While the hyperscalers are vastly cheaper for small tasks, even after accounting for VAT and the volatile exchange rate conversion, a local provider like MTN offers the undeniable benefits of **low-latency access** within Nigeria. Crucially, MTN eliminates the reliance on volatile USD-to-NGN exchange rates and foreign payment methods, offering billing predictability that others simply cannot match.
 
 It is worth noting that **MTN has generously allowed me to play across all classes of compute for free** to conduct this research, which is an extremely kind gesture that I sincerely appreciate.
 
