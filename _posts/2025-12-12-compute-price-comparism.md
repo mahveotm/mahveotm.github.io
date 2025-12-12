@@ -124,4 +124,4 @@ To compare the four providers effectively, we are making the following consisten
 
 **This comparison clearly shows a trade-off:** while the hyperscalers are vastly cheaper for small tasks (even after tax and exchange rate conversion), a local provider like MTN offers the benefit of **low-latency access** within Nigeria and eliminates the reliance on volatile USD-to-NGN exchange rates and foreign payment methods.
 
-Next article I'll talk about data transfer costs(Egress).
+In the article, I'll talk about data transfer costs(Egress).
