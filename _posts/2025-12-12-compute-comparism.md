@@ -27,6 +27,7 @@ To ensure this is a fair, apples-to-apples comparison of the four providers, we 
 | **Location Factor** | **AWS/Azure/GCP** prices are sourced from their popular **US East** regions. MTN’s price is currently consistent across its available zone(s). | Acknowledge the physical location that dictates global cloud pricing. |
 | **Compute Equivalence** | **1 Core (MTN)** is approximated to **1 vCPU (AWS/Azure/GCP)**. | Necessary simplification to compare architectural differences in standard compute offerings. |
 
+
 #### Cloud Compute Cost Comparison (Monthly NGN)
 
 <div style="overflow-x:auto; max-width:100%; border:1px solid #ddd;">
@@ -125,6 +126,7 @@ To ensure this is a fair, apples-to-apples comparison of the four providers, we 
 </table>
 </div>
 
+
 #### **Key Takeaways from the Compute Price Showdown**
 Cheapest compute instance available on MTN Cloud
 ![cheap-mtn](https://raw.githubusercontent.com/mahveotm/mahveotm.github.io/refs/heads/master/assets/img/Screenshot%202025-12-12%20at%2009.01.44.png)
@@ -133,7 +135,7 @@ Most expensive plan available on MTN Cloud
 ![expensive-mtn](https://raw.githubusercontent.com/mahveotm/mahveotm.github.io/refs/heads/master/assets/img/Screenshot%202025-12-12%20at%2009.02.43.png)
 The comparison across all four cloud providers reveals some fascinating, and critical, data points regarding cloud infrastructure in Nigeria.
 
-The initial shock comes at the **low-end**: For the smallest, entry-level instances (1-2 vCPU), MTN Cloud is *s**ignificantly* more expensive than the international hyperscalers. To put a number on it, the MTN G1S1 (1 core, 1 GB) is nearly **six times** the cost of the GCP `e2-micro` (2 vCPU, 1 GB). I'm not an economist, but this might suggests the overhead of smaller, highly utilized local infrastructure is simply much higher than what the massive global US-based clouds can absorb.
+The initial shock comes at the **low-end**: For the smallest, entry-level instances (1-2 vCPU), MTN Cloud is *significantly* more expensive than the international hyperscalers. To put a number on it, the MTN G1S1 (1 core, 1 GB) is nearly **six times** the cost of the GCP `e2-micro` (2 vCPU, 1 GB). I'm not an economist, but this might suggests the overhead of smaller, highly utilized local infrastructure is simply much higher than what the massive global US-based clouds can absorb.
 
 However, as we scale up, the picture changes. In the **mid-range** General Purpose tier (4 vCPU, 16 GB), MTN’s price gap narrows considerably. The MTN G4S16 is priced at ₦270,389, putting it much closer to the tight price range of AWS and GCP (₦225,750 – ₦228,975). Interestingly, the tight competition between **AWS and GCP** holds true across all sizes, generally providing the lowest costs for General Purpose instances, with Azure maintaining a slight premium across most tiers.
 
