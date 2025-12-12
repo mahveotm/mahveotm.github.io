@@ -1,20 +1,32 @@
 ---
 layout: post
-title: Compute pricing comparism.
-subtitle: How much is what?
+title: MTN Cloud compute pricing comparism(cloud this, cloud that).
+subtitle: How much is what, where?
 
 tags: [software, cloud, mtn cloud, aws, azure, gcp]
 ---
 
-To compare the four providers effectively, we are making the following consistent assumptions:
+Hello, this is **Marv** here again, diving into something I think is important: **MTN Cloud** compute pricing.
 
-  * **Pricing Model:** Pay-As-You-Go (On-Demand). No long-term contracts or commitment savings.
-  * **Timeframe:** Monthly costs calculated using **730 hours** of runtime.
-  * **Tax/Currency:** AWS, Azure, and GCP costs include a **7.5% sales tax** and are converted at **$1 USD = $\text{N}1500$ NGN**. MTN Cloud prices are the provided Naira rates.
-  * **Location:** AWS, Azure, and GCP prices are based on their popular US East regions. MTN Cloud is priced in Naira, and independent of the availaility zone.
-  * **Core Equivalence:** For comparison purposes, we are making the decision to approximate **1 Core (MTN)** to **1 vCPU (AWS/Azure/GCP)**.
+MTN Cloud does not offer a publicly accessible pricing plan or a simple cost calculator - yet. As I [strongly opined in this post](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), users should be able to evaluate potential costs and plans *before* even committing to registration or provisioning an instance. 
 
-## 📊 4-Way Cloud Compute Cost Comparison (Monthly NGN)
+To fill this crucial information gap, I have meticulously calculated and compared compute costs across MTN and the three other major global cloud providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+
+#### **The Comparison: Pay-As-You-Go in Naira**
+
+I will be comparing the monthly prices of several common instance sizes, all presented as if you were paying the final amount in **Nigerian Naira (₦)**.
+
+To ensure this is a fair, apples-to-apples comparison of the four providers, we will be grounding our analysis in the following consistent assumptions:
+
+| Assumption | Detail | Rationale |
+| :--- | :--- | :--- |
+| **Pricing Model** | **Pay-As-You-Go (On-Demand)**. No long-term contracts (Reserved Instances, etc.) are applied. | Represents the most common starting point for new users and ensures a fair comparism across board. |
+| **Timeframe** | **Monthly Cost (730 Hours)**. MTN’s quoted cost per instance is assumed to be the final monthly rate. | Standard industry metric for monthly uptime. |
+| **Currency Conversion** | **$1 USD = ₦1500**. AWS, Azure, and GCP costs include a **7.5% VAT/Sales Tax** and are converted at this rate. | Reflects a real-world, current-market exchange rate and includes essential tax for a final comparison. |
+| **Location Factor** | **AWS/Azure/GCP** prices are sourced from their popular **US East** regions. MTN’s price is currently consistent across its available zone(s). | Acknowledge the physical location that dictates global cloud pricing. |
+| **Compute Equivalence** | **1 Core (MTN)** is approximated to **1 vCPU (AWS/Azure/GCP)**. | Necessary simplification to compare architectural differences in standard compute offerings. |
+
+#### Cloud Compute Cost Comparison (Monthly NGN)
 
 <div style="overflow-x:auto; max-width:100%; border:1px solid #ddd;">
 <table>
@@ -112,19 +124,32 @@ To compare the four providers effectively, we are making the following consisten
 </table>
 </div>
 
-## Some interesting data points. 
+#### Key Takeaways from the Compute Price Showdown
 
-1.  **Low-End Price Disparity:** For the smallest, Entry-level instances (1-2 vCPU), **MTN Cloud is significantly more expensive** than the international hyperscalers. The MTN G1S1 (1/1) is nearly **6 times** the cost of the GCP `e2-micro` (2/1). This suggests the overhead of smaller, highly utilized local infrastructure is much higher than the global US-based clouds.
+This final addition gives a personal, appreciative touch and sets up the next article perfectly.
 
-2.  **Mid-Range Competitiveness:** As the instances scale up to the **General Purpose (4 vCPU, 16 GB)** tier, MTN's price gap narrows considerably. The MTN G4S16 at $\text{N}270,389$ is much closer to the AWS/GCP prices ($\text{N}225,750 - \text{N}228,975$).
+Here is the completed, final version of your conclusion:
 
-3.  **High-End Local Premium:** In the largest **Enterprise/Dedicated** tiers (96 Cores), **MTN Cloud becomes the most expensive option**. The MTN Ge96L384 is priced at $\text{N}6,431,371$, which is about $\text{N}1$ million more per month than the equivalent instance on AWS, and about $\text{N}442,000$ more than the equivalent instance on Azure.
+***
 
-4.  **Hyperscaler Consistency:** AWS and GCP maintain their tight competition, generally providing the lowest cost for General Purpose instances, while Azure maintains a small premium across most tiers.
+## **Key Takeaways from the Compute Price Showdown**
 
-**This comparison clearly shows a trade-off:** while the hyperscalers are vastly cheaper for small tasks (even after tax and exchange rate conversion), a local provider like MTN offers the benefit of **low-latency access** within Nigeria and eliminates the reliance on volatile USD-to-NGN exchange rates and foreign payment methods.
+The comparison across all four cloud providers reveals some fascinating, and critical, data points regarding cloud infrastructure in Nigeria.
 
+The initial shock comes at the **low-end**: For the smallest, entry-level instances (1-2 vCPU), MTN Cloud is *s**ignificantly* more expensive than the international hyperscalers. To put a number on it, the MTN G1S1 (1 core, 1 GB) is nearly **six times** the cost of the GCP `e2-micro` (2 vCPU, 1 GB). I'm not an economist, but this might suggests the overhead of smaller, highly utilized local infrastructure is simply much higher than what the massive global US-based clouds can absorb.
 
+However, as we scale up, the picture changes. In the **mid-range** General Purpose tier (4 vCPU, 16 GB), MTN’s price gap narrows considerably. The MTN G4S16 is priced at ₦270,389, putting it much closer to the tight price range of AWS and GCP (₦225,750 – ₦228,975). Interestingly, the tight competition between **AWS and GCP** holds true across all sizes, generally providing the lowest costs for General Purpose instances, with Azure maintaining a slight premium across most tiers.
 
-In the article, I'll talk about data transfer costs(Egress).
+The trend culminates in the **high-end Enterprise/Dedicated** tiers (96 Cores), where **MTN Cloud becomes the most expensive option**. The MTN Ge96L384, at ₦6,431,371, is about ₦1 million more per month than the equivalent instance on AWS, and approximately ₦442,000 more than Azure.
 
+**The trade-off is seems clear:** While the hyperscalers are vastly cheaper for small tasks—even after accounting for VAT and the volatile exchange rate conversion—a local provider like MTN offers the undeniable benefits of **low-latency access** within Nigeria. Crucially, MTN eliminates the reliance on volatile USD-to-NGN exchange rates and foreign payment methods, offering billing predictability that others simply cannot match.
+
+It is worth noting that **MTN has generously allowed me to play across all classes of compute for free** to conduct this research, which is an extremely kind gesture that I sincerely appreciate.
+
+***
+
+*Prices for AWS, Azure, and GCP were meticulously sourced and calculated using their official tools: the [AWS EC2 On-Demand Pricing page](https://aws.amazon.com/ec2/pricing/on-demand/), the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/), and the [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator).*
+
+In the next article, we will pivot away from raw compute cost and look at the areas where MTN might truly have the edge: **data transfer costs (Egress)**, and a head-to-head comparison of **latency** for a simple web application hosted on MTN Cloud versus the AWS US-East-1 region.
+
+[CLose out](https://youtu.be/xIk0_uFV-rU)
