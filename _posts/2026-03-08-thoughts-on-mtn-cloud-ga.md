@@ -11,17 +11,17 @@ The first major improvement: you can now sign up directly at [cloud.mtn.ng](http
 
 On the technical side, things are promising but still rough around the edges. There is [decent documentation](https://cloud.mtn.ng/documentation/) now, which is good to see. I also ran into quirks like security groups mysteriously detaching from resource pools, floating IPs refusing to provision, and routers spontaneously deleting themselves after creation. These are early days though, and some instability is expected. The important part is that it works, and you can actually build things on it.
 
-Also, to MTN Cloud's credit, a lot of the asks from my earlier post have started landing: there is now programmatic access through Morpheus CLI, infrastructure access through Morpheus Terraform, better documentation, and recurring technical webinars for knowledge sharing. That said, there was no webinar last month, and I still think consistency here matters.
+Also, to MTN Cloud's credit, a lot of the asks from my earlier post have started landing: there is now programmatic access through Morpheus CLI, infrastructure access through Morpheus Terraform, better documentation, and recurring technical webinars for knowledge sharing.
 
 One request I want to repeat clearly is hardware token support for 2FA. The platform logs you out after roughly 15 minutes of inactivity, which is understandable from a security perspective, but for developers who already use hardware keys, repeatedly reaching for a phone OTP is unnecessary friction. This is not a criticism of the security posture, it is a usability request.
 
-But stepping back from the technical specifics, let us talk about the business reality of local cloud in Nigeria. Here is the truth: people only care about data sovereignty because regulators make them. Without regulatory compliance mandating local data residency, the conversation around local cloud providers gets significantly quieter. So if compliance is the primary hook, how does MTN Cloud stack up on the business side?
+But stepping back from the technical specifics, let us talk about the business reality of local cloud in Nigeria. Here is the truth: people only care about data sovereignty because regulators make them. Without regulatory compliance mandating local data residency, the conversation around local cloud providers becomes significantly different. So if compliance is the primary hook, how does MTN Cloud stack up on the business side?
 
 ### The Double-Edged Sword of Naira Pricing
 
-Pricing in Naira is, on paper, a fantastic idea. It shields local businesses from the daily anxiety of FX fluctuations. But let us be brutally honest: a significant chunk of MTN's underlying infrastructure costs are in USD. MTN Cloud still does not have a publicly accessible pricing page, which is frankly irresponsible at this stage. Local competitors like [Nobus](https://nobus.io/pricing) and [Layer3](https://layer3.cloud/pricing) already publish detailed pricing options openly.
+Pricing in Naira is, on paper, a fantastic idea. It shields local businesses from the daily anxiety of FX fluctuations. But let us be brutally honest: a significant chunk of MTN's underlying infrastructure costs are in USD. Also, MTN Cloud still does not have a publicly accessible pricing page, which is frankly irresponsible at this stage. Local competitors like [Nobus](https://nobus.io/pricing) and [Layer3](https://layer3.cloud/pricing) already publish detailed pricing options openly.
 
-While minor currency swings might not have an immediate impact, a massive devaluation event, like the 20% to 30% dips we typically see around election cycles, means somebody has to bite the bullet on those costs. And to be fair, this is not entirely bad news in isolation, USD-paying customers globally still feel exchange-rate swings too. The key point is that local companies are not fully immune either; when rates move hard enough, the pressure eventually shows up somewhere on the invoice. Knowing MTN as a telco, they are highly unlikely to absorb those losses for long. Eventually, those costs will trickle down to the consumer.
+While minor currency swings might not have an immediate impact, a massive devaluation event, like the 15% to 30% dips we typically see around election cycles, means somebody has to bite the bullet on those costs. And to be fair, this is not entirely bad news in isolation, USD-paying customers in Nigeria will still feel exchange-rate swings too. The key point is that local companies are not fully immune either; when rates move hard enough, the pressure eventually shows up somewhere on the invoice. Knowing MTN as a telco, they are highly unlikely to absorb those losses for long. Eventually, those costs will trickle down to the consumer.
 
 ### The Overhanging AWS Threat
 
@@ -33,11 +33,11 @@ On the other hand, their corporate reputation for handling technical outages lea
 
 That is the real pressure point. If global players are now physically closer and MTN still carries trust baggage on reliability, being the "Nigerian option" will not be enough on its own.
 
-To be fair, most of my points from the original Thoughts on MTN Cloud are now being addressed, and that progress deserves applause. The question now is whether execution speed and reliability can keep up as competition tightens.
+To be fair, most of my points from the original Thoughts on MTN Cloud are now being addressed, and that progress deserves applause. The question now is whether execution speed and reliability can keep up if competition tightens.
 
 ### The Verdict: Operate Like a Startup
 
-For MTN Cloud to survive and thrive against both local competitors and global threats, they cannot operate with the bureaucratic bloat of a legacy telco. They need to treat this cloud division like a true startup. Give it a different name, detach it from corporate red tape, be nimble, and allow them to break things. Several things.
+For MTN Cloud to survive and thrive against both local competitors and global threats, they cannot operate with the bureaucratic bloat of a legacy telco. They need to treat this cloud division like a true startup. Maybe give it a different name, detach it from corporate red tape, be nimble, and allow them to break things. Several things.
 
 Because when a real startup with serious funding enters this space, or when a global giant finally pivots hard into Lagos, MTN Cloud will need more than just regulatory sovereignty to stay relevant.
 
