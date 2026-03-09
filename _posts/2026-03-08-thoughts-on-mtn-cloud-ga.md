@@ -7,7 +7,8 @@ tags: [software, cloud, mtn cloud]
 
 It is finally here. The **General Availability (GA)** version of MTN Cloud is live, and I spent the weekend playing around. As always, I have some thoughts. You can check some of my previous coverage on MTN Cloud, like my [Thoughts on MTN Cloud](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/) or the [compute comparison](https://blog.mahveo.codes/2025-12-12-compute-comparison/).
 
-The first major improvement: you can now sign up directly at [cloud.mtn.ng](https://cloud.mtn.ng/) without contacting sales or waiting for someone to reach out. This is a significant step forward from the early access days. That said, onboarding comes with a ₦120,000 commitment fee before your account gets activated, which is a non-trivial barrier for developers who just want to experiment. The registration process also asks for a myriad of information that feels unnecessary for a cloud platform signup.
+The first major improvement: you can now sign up directly at [cloud.mtn.ng](https://cloud.mtn.ng/) without contacting sales or waiting for someone to reach out. This is a significant step forward from the early access days. That said, you must pay ₦120,000 upfront before your account is activated. This becomes credit you can spend on resources, but it does mean MTN Cloud operates on a prepaid model, unlike AWS, Azure, or GCP where you provision first and get billed later. This seems to be the norm for Nigerian cloud providers. Here, if you try to spin up an instance that would push your total spend beyond your available credit, you will get an error message that need to top up first. This is likely driven by local market realities, but it raises the barrier for developers who just want to experiment with a small test instance before committing.
+The registration process also asks for a myriad of information that feels unnecessary for a cloud platform signup.
 
 On the technical side, things are promising but still rough around the edges. There is [decent documentation](https://cloud.mtn.ng/documentation/) now, which is good to see. I also ran into quirks like security groups mysteriously detaching from resource pools, floating IPs refusing to provision, and routers spontaneously deleting themselves after creation. These are early days though, and some instability is expected. The important part is that it works, and you can actually build things on it.
 
@@ -41,4 +42,4 @@ For MTN Cloud to survive and thrive against both local competitors and global th
 
 Because when a real startup with serious funding enters this space, or when a global giant finally pivots hard into Lagos, MTN Cloud will need more than just regulatory sovereignty to stay relevant.
 
-[Close out](https://youtu.be/bf_Nq70kzD8)
+[[Close out – Shoutout to Dave; he put me on to these guys.](https://youtu.be/bf_Nq70kzD8)
