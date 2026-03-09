@@ -42,4 +42,8 @@ For MTN Cloud to survive and thrive against both local competitors and global th
 
 Because when a real startup with serious funding enters this space, or when a global giant finally pivots hard into Lagos, MTN Cloud will need more than just regulatory sovereignty to stay relevant.
 
-[[Close out – Shoutout to Dave; he put me on to these guys.](https://youtu.be/bf_Nq70kzD8)
+---
+
+**Addendum:** A friend commented, "I also think they'll go far if they work like a startup, and not a big telco ecosystem. Similar to what Wema Bank did with ALAT." I could not agree more.
+
+[Close out – Shoutout to Dave; he put me on to these guys.](https://youtu.be/bf_Nq70kzD8)
