@@ -3,7 +3,7 @@ layout: post
 title: MTN Cloud compute pricing comparison(cloud this, cloud that).
 subtitle: How much is what, where?
 share-img: /assets/img/Screenshot 2025-12-12 at 09.06.38.png
-tags: [software, cloud, mtn cloud, aws, azure, gcp]
+tags: [software, cloud, mtn cloud, aws, azure, gcp, mtn cloud pricing, cloud pricing comparison]
 ---
 
 Hello, this is **Marv** here again, diving into something I think is important: **MTN Cloud** compute pricing.
