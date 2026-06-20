@@ -5,13 +5,13 @@ subtitle: Programmatic access to MTN Cloud, the way it should be.
 tags: [software, cloud, mtn cloud, python, open-source]
 ---
 
-If you have been following my [MTN Cloud coverage](https://blog.mahveo.codes/2026-03-08-thoughts-on-mtn-cloud-ga/), you know I have spent a good amount of time in the GA environment lately. And while the console works fine for poking around, I quickly realized that clicking through nested menus is not how anybody wants to manage infrastructure long-term.
+If you have been following my [MTN Cloud coverage](https://blog.mahveo.codes/2026-03-08-thoughts-on-mtn-cloud-ga/){:target="_blank"}, you know I have spent a good amount of time in the GA environment lately. And while the console works fine for poking around, I quickly realized that clicking through nested menus is not how anybody wants to manage infrastructure long-term.
 
-So I built something: the **[MTN Cloud Python SDK](https://pypi.org/project/mtn-cloud/)**.
+So I built something: the **[MTN Cloud Python SDK](https://pypi.org/project/mtn-cloud/){:target="_blank"}**.
 
 ### Why Not Just Use the Morpheus API?
 
-MTN Cloud runs on Morpheus, and yes, Morpheus has [API documentation](https://apidocs.morpheusdata.com/reference). But Morpheus is designed to orchestrate infrastructure across AWS, Azure, GCP, VMware, and a dozen other platforms. The docs reflect that. You are staring at endpoints with dozens of parameters, most of which are irrelevant for MTN's OpenStack deployment. Error responses are inconsistent. Required fields are unclear. You spend more time figuring out what to ignore than what to use.
+MTN Cloud runs on Morpheus, and yes, Morpheus has [API documentation](https://apidocs.morpheusdata.com/reference){:target="_blank"}. But Morpheus is designed to orchestrate infrastructure across AWS, Azure, GCP, VMware, and a dozen other platforms. The docs reflect that. You are staring at endpoints with dozens of parameters, most of which are irrelevant for MTN's OpenStack deployment. Error responses are inconsistent. Required fields are unclear. You spend more time figuring out what to ignore than what to use.
 
 This SDK strips away all that noise and gives you a clean, MTN-specific interface.
 
@@ -117,12 +117,11 @@ db_types = cloud.instance_types.list_databases()
 
 If we want local cloud infrastructure in Nigeria to mature, we need better community tooling. This is my contribution.
 
-The project is on [GitHub](https://github.com/mahveotm/mtn-cloud-python). If you find a bug or want to add a feature, the PR door is open.
+The project is on [GitHub](https://github.com/mahveotm/mtn-cloud-python){:target="_blank"}. If you find a bug or want to add a feature, the PR door is open.
 
 
 ---
 
 **Disclaimer:** This is an unofficial community project. Not affiliated with MTN Nigeria.
 
-[Close out](https://youtu.be/o9zwXQC5iiY)
-
+[Close out](https://youtu.be/o9zwXQC5iiY){:target="_blank"}

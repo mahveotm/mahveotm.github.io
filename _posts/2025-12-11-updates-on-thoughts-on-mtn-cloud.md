@@ -6,7 +6,7 @@ subtitle: Some updates.
 tags: [software, cloud, mtn cloud]
 ---
 
-A couple of weeks ago, I shared my [thoughts on MTN Cloud](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), highlighting areas where I believe the platform needs to mature to truly compete with major players like AWS, Google Cloud and Azure. One of my primary critiques was the lack of visible support for **Infrastructure as Code (IaC)**, specifically Terraform, which I argue is now a core part of modern cloud practice.
+A couple of weeks ago, I shared my [thoughts on MTN Cloud](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/){:target="_blank"}, highlighting areas where I believe the platform needs to mature to truly compete with major players like AWS, Google Cloud and Azure. One of my primary critiques was the lack of visible support for **Infrastructure as Code (IaC)**, specifically Terraform, which I argue is now a core part of modern cloud practice.
 
 Earlier today, I attended a webinar with representatives from the MTN Cloud team, who confirmed that deploying cloud infrastructure through Terraform on MTN Cloud should indeed be possible.
 
@@ -20,4 +20,4 @@ If anybody from MTN Cloud is reading this, that was great, we need more webinars
 
 Thank you
 
-[Close out](https://youtu.be/-f0Yt0CIV10)
+[Close out](https://youtu.be/-f0Yt0CIV10){:target="_blank"}

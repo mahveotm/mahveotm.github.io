@@ -8,7 +8,7 @@ tags: [software, cloud, mtn cloud, aws, azure, gcp]
 
 Hello, this is **Marv** here again, diving into something I think is important: **MTN Cloud** compute pricing.
 
-MTN Cloud does not offer a publicly accessible pricing plan or a simple cost calculator - yet. As I [strongly opined earlier in this post](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/), users should be able to evaluate potential costs and plans *before* even committing to registration or provisioning an instance. 
+MTN Cloud does not offer a publicly accessible pricing plan or a simple cost calculator - yet. As I [strongly opined earlier in this post](https://blog.mahveo.codes/2025-10-22-thoughts-on-mtn-cloud/){:target="_blank"}, users should be able to evaluate potential costs and plans *before* even committing to registration or provisioning an instance. 
 
 To fill this crucial information gap, I have meticulously calculated and compared compute costs across MTN and the three other major global cloud providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
@@ -147,8 +147,8 @@ It is worth noting that **MTN has generously allowed me to play across all class
 
 ***
 
-*Prices for AWS, Azure, and GCP were meticulously sourced and calculated using their official tools: the [AWS EC2 On-Demand Pricing page](https://aws.amazon.com/ec2/pricing/on-demand/), the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/), and the [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator).*
+*Prices for AWS, Azure, and GCP were meticulously sourced and calculated using their official tools: the [AWS EC2 On-Demand Pricing page](https://aws.amazon.com/ec2/pricing/on-demand/){:target="_blank"}, the [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/){:target="_blank"}, and the [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator){:target="_blank"}.*
 
 In the next article, we will pivot away from raw compute cost and look at the areas where MTN might truly have the edge: **data transfer costs (Egress)**, and a head-to-head comparison of **latency** for a simple web application hosted on MTN Cloud versus the AWS US-East-1 region.
 
-[CLose out](https://youtu.be/xIk0_uFV-rU)
+[CLose out](https://youtu.be/xIk0_uFV-rU){:target="_blank"}
